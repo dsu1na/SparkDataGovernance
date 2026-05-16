@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Minio data
+minio_data/
+
+# Marquez postgres data
+marquez_pg/
+
+# jars
+jars/
